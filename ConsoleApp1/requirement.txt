@@ -1,0 +1,18 @@
+﻿create a console application which would store your Todos.
+Each todo should have :
+Name: sting,
+Description:string,
+Completed:boolean
+
+There should not be several todos with the same name;
+Possible commands:
+Add->
+"enter todo name"
+-> Todo1
+"Enter todo description"
+->Todo description
+List->
+the comman should display all todos line bu line;
+example:
+Name: Todo1, Description: Todo1 description
+Name: Todo2, Description: Todo2 description
